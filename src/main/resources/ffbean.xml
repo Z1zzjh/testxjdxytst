@@ -1,0 +1,4 @@
+<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+    <property name="driverClassName" value="131313"/>
+    <property name="url" value="jdbc:131313"/>
+</bean>
